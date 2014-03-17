@@ -1,0 +1,19 @@
+{
+  "name": "vevo-classics",
+  "version": "0.0.0",
+  "authors": [
+    "Ken Wang <ken.wang@vevo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "d3": "~3.4.3"
+  }
+}
